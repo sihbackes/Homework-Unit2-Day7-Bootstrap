@@ -22,3 +22,11 @@ h2 {
   height: 220px;
   width: 220px;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  align-items: center;
+}
