@@ -1,0 +1,24 @@
+body {
+  background-color: #585a5c;
+}
+h2 {
+  color: white;
+}
+
+.imagem-carrosel {
+  object-fit: cover;
+  object-position: 0 10%;
+  height: 450px;
+}
+.spotify {
+  color: rgb(93, 230, 138);
+}
+
+.margin-top {
+  margin-top: 100px;
+}
+
+.img-cover {
+  height: 220px;
+  width: 220px;
+}
