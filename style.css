@@ -38,7 +38,7 @@ footer {
   align-items: center;
 }
 .fade-in {
-  animation: fadeIn 3s;
+  animation: fadeIn 5s;
 }
 @keyframes fadeIn {
   0% {
